@@ -5,5 +5,5 @@ Um pacote simples para conversão de temperaturas entre Celsius, Fahrenheit e Ke
 ## Instalação
 
 ```bash
-pip install temp_converter
+pip converso_tempO_robert
 
